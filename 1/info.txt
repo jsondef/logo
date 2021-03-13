@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Neuton-Bold
+font link: https://fonts.google.com/specimen/Neuton
+font author: Brian Zick
+font author site: https://brianskywalker.deviantart.com/
+
+
+icon designer: 23 icons
+icon designer link: /x09231986x
+        
+
+fontColor: {"gradient-0":"#7D7D7D","gradient-1":"#4E902F"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#7D7D7D","gradient-1":"#4E902F"}
+
+      
